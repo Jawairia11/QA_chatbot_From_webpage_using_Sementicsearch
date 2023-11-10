@@ -43,7 +43,10 @@ After entering url = weburl run the command
     now make Query data function
 
 8. Now make a file in vscode op_ai.py file and write code for chatbot and copy the key from openai and place that key in this code where written in the file.
-   Now run the code by writing      python datasearch.py
+   Now run the code by writing
+
+   python datasearch.py
+   
    we have set temperature = 0
    
    chatbot will answer only from the webpage from which we have given link not from other websites

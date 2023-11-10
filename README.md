@@ -1,10 +1,13 @@
 # Chatbot_using_SementicSearch_for_QA_from_webpage_through_Elasticsearch_Indexing
 Chatbot that used elasticsearch for indexing webpage
 
-### Steps for creating Chatbot using Sementic Search for Question Answering. Due to file uploading limit i could not upload my_venv foler of this project. 
+### Steps for creating Chatbot using Sementic Search for Question Answering. 
+Due to file uploading limit i could not upload my_venv foler of this project. 
 
 1. Create Virtual Environment for the folder
+   
   a.  open command prompt and write the following commands 
+  
   b.  cd path_for_folder
   c.  python -m venv my_venv
 Now activate virtual Environment
@@ -14,9 +17,9 @@ Now perform installations
  pip install requests
  pip install elasticsearch
  pip install openai
-2. Scrap the web page article
+3. Scrap the web page article
    wikipedia page (copy link of web page)
-3. Now open vscode open the folder in vscode  and make a file data.py
+4. Now open vscode open the folder in vscode  and make a file data.py
     now in data.py file write code and give the link of web page in line
    import requests
    data = requests.get("web page link")

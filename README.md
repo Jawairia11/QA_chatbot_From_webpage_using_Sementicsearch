@@ -37,12 +37,14 @@ pip install sentence_transformers
 after this we created the function for url in data.py and called it in datasearch.py
 After entering url = weburl run the command
                 python datasearch.py
+    
     After running python datasearch.py indexes will start running
     we run indexes only one and then comment them
     now make Query data function
 
-7. Now make a file in vscode op_ai.py file and write code for chatbot and copy the key from openai and place that key in this code where written in the file.
+8. Now make a file in vscode op_ai.py file and write code for chatbot and copy the key from openai and place that key in this code where written in the file.
    Now run the code by writing      python datasearch.py
    we have set temperature = 0
+   
    chatbot will answer only from the webpage from which we have given link not from other websites
    write a question and get answers from the webpage 

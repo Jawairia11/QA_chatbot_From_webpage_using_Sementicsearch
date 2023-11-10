@@ -1,7 +1,7 @@
 # chatbot_webpage_Elasticsearch
 Chatbot that used elasticsearch for indexing webpage
 
-# Steps for creating chatbot using Sementic Search for Question Answering chatbot. Due to file uploading limit i could not upload my_venv foler of this project. 
+### Steps for creating chatbot using Sementic Search for Question Answering chatbot. Due to file uploading limit i could not upload my_venv foler of this project. 
 
 1. Create Virtual Environment for the folder
   a.  open command prompt and write the following commands 
@@ -23,7 +23,7 @@ Now perform installations
    print(data.text)
    now run command in vscode terminal
    python data.py
-4. Now go to Elasticsearch webpage make account and save username and password as these will be used in our code files
+#### 4. Now go to Elasticsearch webpage make account and save username and password as these will be used in our code files
 5. create deployment (copy cloud Id )
    go to home and click vectorsearch
 6.  Now again go to VSCode and make a new file name datasearch.py

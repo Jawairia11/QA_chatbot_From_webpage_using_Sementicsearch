@@ -1,4 +1,4 @@
-# chatbot_using_SementicSearch_for_QA_from_webpage_through_Elasticsearch
+# Chatbot_using_SementicSearch_for_QA_from_webpage_through_Elasticsearch_Indexing
 Chatbot that used elasticsearch for indexing webpage
 
 ### Steps for creating Chatbot using Sementic Search for Question Answering. Due to file uploading limit i could not upload my_venv foler of this project. 

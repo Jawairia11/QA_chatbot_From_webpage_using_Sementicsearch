@@ -36,7 +36,8 @@ Due to file uploading limit i could not upload my_venv foler of this project.
   Now open vscode open the folder in vscode  and make a file                       data.py
 
   now in data.py file write code and give the link of web page in line
-  .
+
+  
    import requests
    data = requests.get("web page link")
    print(data.text)
@@ -46,15 +47,20 @@ Due to file uploading limit i could not upload my_venv foler of this project.
 5. create deployment (copy cloud Id )
    go to home and click vectorsearch
 6.  Now again go to VSCode and make a new file name datasearch.py
+   
    write the following code and place cloud id and password in the code
+
 cloud_id = "paste the cloud id copied from first deploymentand"
+
 Basic_auth =("elastic" , "password")   # here in the code we placed the password of elasticsearch account
 complete the code that is placed in our datasearch.py and run the command in vscode terminal
                                  python datasearch.py
 pip install sentence_transformers
 [we uninstalled transformers as it was not giving response]
 after this we created the function for url in data.py and called it in datasearch.py
+
 After entering url = weburl run the command
+
                 python datasearch.py
     
     After running python datasearch.py indexes will start running

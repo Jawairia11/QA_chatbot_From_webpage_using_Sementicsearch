@@ -9,9 +9,9 @@ Due to file uploading limit i could not upload my_venv foler of this project.
   ####.  open command prompt and write the following commands 
 
   
-  b.      cd path_for_folder
+       cd path_for_folder
   
-  c.      python -m venv my_venv
+     python -m venv my_venv
   
 #### Now activate virtual Environment
 

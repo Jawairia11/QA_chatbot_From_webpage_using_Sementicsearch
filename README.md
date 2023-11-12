@@ -16,7 +16,7 @@ Due to file uploading limit i could not upload my_venv foler of this project.
 #### Now activate virtual Environment
 
 
-  d. my_venv\Scripts\activate
+   my_venv\Scripts\activate
   
 #### Now perform installations
 

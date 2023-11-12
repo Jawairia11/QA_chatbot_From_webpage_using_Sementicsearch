@@ -36,13 +36,14 @@ Due to file uploading limit i could not upload my_venv foler of this project.
   Now open vscode open the folder in vscode  and make a file                       data.py
 
   now in data.py file write code and give the link of web page in line
-
   
    import requests
    data = requests.get("web page link")
    print(data.text)
    now run command in vscode terminal
    python data.py
+
+   
 #### 4. Now go to Elasticsearch webpage make account and save username and password as these will be used in our code files
 5. create deployment (copy cloud Id )
    go to home and click vectorsearch
@@ -64,7 +65,8 @@ After entering url = weburl run the command
                 python datasearch.py
     
     After running python datasearch.py indexes will start running
-    we run indexes only one and then comment them
+    
+    we run indexes only once and then comment them
     now make Query data function
 
 8. Now make a file in vscode op_ai.py file and write code for chatbot and copy the key from openai and place that key in this code where written in the file.

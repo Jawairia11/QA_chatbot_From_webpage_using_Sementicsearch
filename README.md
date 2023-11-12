@@ -19,10 +19,18 @@ Now activate virtual Environment
   d. my_venv\Scripts\activate
   
 Now perform installations
+
+
  pip install transformers
+
+ 
  pip install requests
+ 
  pip install elasticsearch
+ 
  pip install openai
+
+ 
 3. Scrap the web page article
    wikipedia page (copy link of web page)
 4. Now open vscode open the folder in vscode  and make a file data.py

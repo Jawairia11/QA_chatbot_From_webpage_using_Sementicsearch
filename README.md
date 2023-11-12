@@ -60,7 +60,9 @@ pip install sentence_transformers
 [we uninstalled transformers as it was not giving response]
 after this we created the function for url in data.py and called it in datasearch.py
 
-After entering url = weburl run the command
+After entering        url = weburl 
+
+                    run the command
 
                 python datasearch.py
     

@@ -35,7 +35,8 @@ Due to file uploading limit i could not upload my_venv foler of this project.
    wikipedia page (copy link of web page)
   Now open vscode open the folder in vscode  and make a file                       data.py
 
- .   now in data.py file write code and give the link of web page in line
+  now in data.py file write code and give the link of web page in line
+  .
    import requests
    data = requests.get("web page link")
    print(data.text)
